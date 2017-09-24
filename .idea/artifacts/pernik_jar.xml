@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="pernik:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/pernik_jar</output-path>
-    <root id="archive" name="pernik_jar.jar">
+    <output-path>C:/Dropbox/perniky/pernikJar</output-path>
+    <root id="archive" name="pernik.jar">
       <element id="module-output" name="pernik" />
     </root>
   </artifact>
